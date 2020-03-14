@@ -20,7 +20,7 @@
 
 .img {
     width: 100%;
-    height: 70mm;
+    height: 60mm;
     text-align: center
 }
 
@@ -65,7 +65,7 @@
     width: 100%;
     font-size: 22px;
     margin-left: 10mm;
-    margin-top: 10mm;
+    margin-top: 8mm;
     font-weight: bold;
 }
 
@@ -85,5 +85,14 @@
     font-size: 15px;
     margin-left: 10mm;
     margin-top: 3mm;
-    max-width: 120mm;
+    max-width: 125mm;
+}
+
+.score {
+    color: white;
+    width: 100%;
+    font-size: 10px;
+    margin-left: 7mm;
+    margin-top: 3mm;
+    max-width: 50mm;
 }
